@@ -5,8 +5,8 @@
 <body bgcolor="white">
 Hola, mundo. Te lo repito  <%= count++ %> 
 <% if (count == 1) { %>
- vez
+ una vez
 <% } else { %>
- veces
+ varias veces
 <% } %>
 </body></html>
